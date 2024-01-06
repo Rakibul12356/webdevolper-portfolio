@@ -120,3 +120,12 @@ font-size: 18px;
     text-align: center;
     
 }
+#what-i-do-description{
+    padding: 30px 130px;
+}
+/* skills section styles */
+.skills-container{
+    display: flex;
+    justify-content: space-around;
+    padding-right: 30px;
+}
